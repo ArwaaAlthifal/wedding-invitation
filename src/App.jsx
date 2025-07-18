@@ -435,49 +435,41 @@ function App() {
             src="/assets/fn-jefri/5.webp"
             alt=""
             className="w-full h-auto transition-transform duration-300 rounded hover:brightness-75"
-            loading="lazy"
           />
           <img
             src="/assets/fn-jefri/6.webp"
             alt=""
             className="w-full h-auto transition-transform duration-300 rounded hover:brightness-75"
-            loading="lazy"
           />
           <img
             src="/assets/fn-jefri/9.webp"
             alt=""
             className="w-full h-auto transition-transform duration-300 rounded hover:brightness-75"
-            loading="lazy"
           />
           <img
             src="/assets/fn-jefri/10.webp"
             alt=""
             className="w-full h-auto transition-transform duration-300 rounded hover:brightness-75"
-            loading="lazy"
           />
           <img
             src="/assets/fn-jefri/12.webp"
             alt=""
             className="w-full h-auto transition-transform duration-300 rounded hover:brightness-75"
-            loading="lazy"
           />
           <img
             src="/assets/fn-jefri/13.webp"
             alt=""
             className="w-full h-auto transition-transform duration-300 rounded hover:brightness-75"
-            loading="lazy"
           />
           <img
             src="/assets/fn-jefri/23.webp"
             alt=""
             className="w-full h-auto transition-transform duration-300 rounded hover:brightness-75"
-            loading="lazy"
           />
           <img
             src="/assets/fn-jefri/24.webp"
             alt=""
             className="w-full h-auto transition-transform duration-300 rounded hover:brightness-75"
-            loading="lazy"
           />
         </div>
       </section>
