@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { useRef } from "react";
-import heroImage from './assets/hero.jpg'
+import heroImage from './assets/hero.webp'
 import patImage from './assets/pattern.png'
 import jcImage from './assets/jc.png'
 import jef from './assets/jef.png'
