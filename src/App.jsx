@@ -432,49 +432,49 @@ function App() {
         {/* Galeri */}
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
           <img
-            src="/assets/fn-jefri/5.jpg"
+            src="/assets/fn-jefri/5.webp"
             alt=""
             className="w-full h-auto transition-transform duration-300 rounded hover:brightness-75"
             loading="lazy"
           />
           <img
-            src="/assets/fn-jefri/6.jpg"
+            src="/assets/fn-jefri/6.webp"
             alt=""
             className="w-full h-auto transition-transform duration-300 rounded hover:brightness-75"
             loading="lazy"
           />
           <img
-            src="/assets/fn-jefri/9.jpg"
+            src="/assets/fn-jefri/9.webp"
             alt=""
             className="w-full h-auto transition-transform duration-300 rounded hover:brightness-75"
             loading="lazy"
           />
           <img
-            src="/assets/fn-jefri/10.jpg"
+            src="/assets/fn-jefri/10.webp"
             alt=""
             className="w-full h-auto transition-transform duration-300 rounded hover:brightness-75"
             loading="lazy"
           />
           <img
-            src="/assets/fn-jefri/12.jpg"
+            src="/assets/fn-jefri/12.webp"
             alt=""
             className="w-full h-auto transition-transform duration-300 rounded hover:brightness-75"
             loading="lazy"
           />
           <img
-            src="/assets/fn-jefri/13.jpg"
+            src="/assets/fn-jefri/13.webp"
             alt=""
             className="w-full h-auto transition-transform duration-300 rounded hover:brightness-75"
             loading="lazy"
           />
           <img
-            src="/assets/fn-jefri/23.jpg"
+            src="/assets/fn-jefri/23.webp"
             alt=""
             className="w-full h-auto transition-transform duration-300 rounded hover:brightness-75"
             loading="lazy"
           />
           <img
-            src="/assets/fn-jefri/24.jpg"
+            src="/assets/fn-jefri/24.webp"
             alt=""
             className="w-full h-auto transition-transform duration-300 rounded hover:brightness-75"
             loading="lazy"
