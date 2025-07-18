@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+h1.text-hero {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1.text-header-1 {
+  font-family: 'Antic', sans-serif;
+}
+
+h1.text-header-2 {
+  font-family: "Engagement", cursive;
+}
+
+.ornamen-center {
+  display: flex;
+  justify-content: center;
+  margin: 3rem 0;
+}
+
+.ornamen-center img {
+  max-width: 80%;
+  opacity: 0.9;
+}
+
+
