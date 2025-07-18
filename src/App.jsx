@@ -19,6 +19,7 @@ import {
 } from '@fortawesome/free-solid-svg-icons'
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
 import ATMCard from './ATMCard'
+import KomentarForm from './KomentarForm';
 
 
 function MusicPlayer() {
@@ -499,6 +500,10 @@ function App() {
           <ATMCard />
         </div>
 
+      </section>
+
+      <section>
+        <KomentarForm />
       </section>
     </div>
   )
