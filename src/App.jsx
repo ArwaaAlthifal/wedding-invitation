@@ -1,7 +1,10 @@
 import { useState } from 'react'
 import { useRef } from "react";
 import heroImage from './assets/hero.jpg'
+import patImage from './assets/pattern.png'
 import jcImage from './assets/jc.png'
+import jef from './assets/jef.png'
+import cut from './assets/cut.png'
 import leftOrnament from './assets/left-decor.png'
 import rightOrnament from './assets/right-decor.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
@@ -145,7 +148,7 @@ function App() {
 
         {/* Mempelai Perempuan */}
         <div className="flex flex-col items-center mb-10">
-          <img src="/src/assets/jef.png" alt="Foto Jefri" className="w-100 h-60" />
+          <img src={jef} alt="Foto Jefri" className="w-100 h-60" />
           <h1 className="text-header-2 text-5xl mt-4 mb-3">Jefri</h1>
           <h1
             className="text-header-1 font-bold"
@@ -161,7 +164,7 @@ function App() {
 
         {/* Mempelai Perempuan */}
         <div className="flex flex-col items-center">
-          <img src="/src/assets/cut.png" alt="Foto Jefri" className="w-100 h-60" />
+          <img src={cut} alt="Foto Jefri" className="w-100 h-60" />
           <h1 className="text-header-2 text-5xl mt-4 mb-3">Cut</h1>
           <h1
             className="text-header-1 font-black"
@@ -195,7 +198,7 @@ function App() {
         <div
           className="mx-auto w-[90%] max-w-sm px-6 py-10 rounded-[100px] text-black bg-[#d1c1a4] shadow-md relative "
           style={{
-            backgroundImage: 'url(/src/assets/pattern.png)', // ganti sesuai filemu
+            backgroundImage: `url(${patImage})`, // ganti sesuai filemu
             backgroundRepeat: 'no-repeat',
             backgroundSize: 'cover',
           }}
@@ -243,7 +246,7 @@ function App() {
         <div
           className="mx-auto w-[90%] max-w-sm px-6 py-10 rounded-[100px] text-black bg-[#d1c1a4] shadow-md relative mt-10"
           style={{
-            backgroundImage: 'url(/src/assets/pattern.png)', // ganti sesuai filemu
+            backgroundImage: `url(${patImage})`, // ganti sesuai filemu
             backgroundRepeat: 'no-repeat',
             backgroundSize: 'cover',
           }}
