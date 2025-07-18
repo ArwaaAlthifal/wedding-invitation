@@ -226,12 +226,12 @@ function App() {
 
           {/* Lokasi */}
           <p className="text-sm px-2">
-            Jl. Kota Cane Kp. Cempa Kec. blangkejeren, Kabupaten Gayo Lues, Aceh
+            Masjid Al-huda, Kp. Cempa Kec. blangkejeren, Kabupaten Gayo Lues, Aceh
           </p>
 
           {/* Tombol Maps */}
           <a
-            href="https://maps.app.goo.gl/Hf9vz5R8SzeeAbGw9"
+            href="https://maps.app.goo.gl/P8wFyhT8tvLCBG53A"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block mt-6 px-5 py-2 bg-[#543f33] text-white rounded-full font-semibold text-xs shadow-md"
@@ -279,7 +279,7 @@ function App() {
 
           {/* Tombol Maps */}
           <a
-            href="https://maps.app.goo.gl/Hf9vz5R8SzeeAbGw9"
+            href="https://maps.app.goo.gl/nC3DGDuxpdg9Bpyg7"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block mt-6 px-5 py-2 bg-[#543f33] text-white rounded-full font-semibold text-xs shadow-md"
