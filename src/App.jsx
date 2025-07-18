@@ -76,7 +76,7 @@ function App() {
 
         {/* Konten di atas background */}
         <div className="relative z-10 flex flex-col items-center text-white text-center px-6 sm:px-10">
-          <img className="w-48 sm:w-48 md:w-48 lg:w-72 xl:w-72" src={jcImage} alt="Jefri dan Cut" />
+          <img className="w-48 sm:w-48 md:w-48 lg:w-72 xl:w-72" src={jcImage} alt="Jefri dan Cut" loading="lazy" />
 
           <h1
             className="text-hero text-sm sm:text-md md:text-md mb-6"
@@ -103,11 +103,13 @@ function App() {
           src={leftOrnament}
           alt="Ornamen kiri"
           className="absolute top-0 left-0 w-24 sm:w-32 md:w-40"
+          loading="lazy"
         />
         <img
           src={rightOrnament}
           alt="Ornamen kanan"
           className="absolute top-0 right-0 w-24 sm:w-32 md:w-40"
+          loading="lazy"
         />
 
         {/* Teks */}
@@ -148,7 +150,7 @@ function App() {
 
         {/* Mempelai Perempuan */}
         <div className="flex flex-col items-center mb-10">
-          <img src={jef} alt="Foto Jefri" className="w-100 h-60" />
+          <img src={jef} alt="Foto Jefri" className="w-100 h-60" loading="lazy" />
           <h1 className="text-header-2 text-5xl mt-4 mb-3">Jefri</h1>
           <h1
             className="text-header-1 font-bold"
@@ -164,7 +166,7 @@ function App() {
 
         {/* Mempelai Perempuan */}
         <div className="flex flex-col items-center">
-          <img src={cut} alt="Foto Jefri" className="w-100 h-60" />
+          <img src={cut} alt="Foto Jefri" className="w-100 h-60" loading="lazy" />
           <h1 className="text-header-2 text-5xl mt-4 mb-3">Cut</h1>
           <h1
             className="text-header-1 font-black"
@@ -240,7 +242,7 @@ function App() {
         </div>
 
         <div class="ornamen-center">
-          <img src="./assets/ornamen.png" alt="Ornamen" />
+          <img src="./assets/ornamen.png" alt="Ornamen" loading="lazy" />
         </div>
 
         <div
@@ -406,7 +408,7 @@ function App() {
             </div>
           </div>
         </div>
-        <img src="/assets/sobekan.png" alt="" className="w-150" />
+        <img src="/assets/sobekan.png" alt="" className="w-150" loading="lazy" />
       </section>
 
       <section className="min-h-screen bg-[#543f33] pt-16 px-4 text-center text-white">
@@ -433,48 +435,56 @@ function App() {
             src="/assets/fn-jefri/5.jpg"
             alt=""
             className="w-full h-auto transition-transform duration-300 rounded hover:brightness-75"
+            loading="lazy"
           />
           <img
             src="/assets/fn-jefri/6.jpg"
             alt=""
             className="w-full h-auto transition-transform duration-300 rounded hover:brightness-75"
+            loading="lazy"
           />
           <img
             src="/assets/fn-jefri/9.jpg"
             alt=""
             className="w-full h-auto transition-transform duration-300 rounded hover:brightness-75"
+            loading="lazy"
           />
           <img
             src="/assets/fn-jefri/10.jpg"
             alt=""
             className="w-full h-auto transition-transform duration-300 rounded hover:brightness-75"
+            loading="lazy"
           />
           <img
             src="/assets/fn-jefri/12.jpg"
             alt=""
             className="w-full h-auto transition-transform duration-300 rounded hover:brightness-75"
+            loading="lazy"
           />
           <img
             src="/assets/fn-jefri/13.jpg"
             alt=""
             className="w-full h-auto transition-transform duration-300 rounded hover:brightness-75"
+            loading="lazy"
           />
           <img
             src="/assets/fn-jefri/23.jpg"
             alt=""
             className="w-full h-auto transition-transform duration-300 rounded hover:brightness-75"
+            loading="lazy"
           />
           <img
             src="/assets/fn-jefri/24.jpg"
             alt=""
             className="w-full h-auto transition-transform duration-300 rounded hover:brightness-75"
+            loading="lazy"
           />
         </div>
       </section>
 
       <section className="min-h-screen bg-[#543f33] py-5 px-4 text-center text-white">
         <div class="ornamen-center">
-          <img src="./assets/ornamen.png" alt="Ornamen" />
+          <img src="./assets/ornamen.png" alt="Ornamen" loading="lazy" />
         </div>
         {/* Judul */}
 
