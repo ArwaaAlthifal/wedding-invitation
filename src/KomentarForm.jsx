@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 
 const SCRIPT_URL =
-  'https://script.google.com/macros/s/AKfycbxnqb7ZF6jBi0Sw5-VCBVIs9j7TUvJn8PQxwXXesT3uI1cZgX7emEyIJBpDEt1Wfxw0/exec'
+  'https://script.google.com/macros/s/AKfycbzTHwCDyVJkD2cVCyJff0yJxtPXSjUm5ginEbbaWcG7q-l0sdFPWJaB2RKI8VgQiFk/exec'
 
 const KomentarForm = () => {
   const [nama, setNama] = useState('')
