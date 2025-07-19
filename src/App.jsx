@@ -293,9 +293,6 @@
 
         <section
           className="pt-20 bg-repeat bg-[#f1e9d9] text-[#543f33]"
-          style={{
-            backgroundImage: 'url(/src/assets/motif.png)', // motif batik
-          }}
         >
           <div className="max-w-3xl mx-auto text-center mb-16 px-4">
             <h1
