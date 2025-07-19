@@ -439,12 +439,12 @@
               className="w-full h-auto transition-transform duration-300 rounded hover:brightness-75"
             />
             <img
-              src="/assets/fn-jefri/9.webp"
+              src="/assets/fn-jefri/19.webp"
               alt=""
               className="w-full h-auto transition-transform duration-300 rounded hover:brightness-75"
             />
             <img
-              src="/assets/fn-jefri/10.webp"
+              src="/assets/fn-jefri/20.webp"
               alt=""
               className="w-full h-auto transition-transform duration-300 rounded hover:brightness-75"
             />
