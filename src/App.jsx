@@ -19,7 +19,6 @@
   } from '@fortawesome/free-solid-svg-icons'
   import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
   import ATMCard from './ATMCard'
-  import KomentarForm from './KomentarForm';
 
 
   function MusicPlayer() {
@@ -499,9 +498,7 @@
 
         </section>
 
-        <section>
-          <KomentarForm />
-        </section>
+     
       </div>
     )
   }
